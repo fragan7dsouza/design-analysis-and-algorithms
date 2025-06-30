@@ -1,6 +1,6 @@
 # 📐 Design and Analysis of Algorithms (DAA) Programs
 
-This repository contains a curated collection of algorithm implementations developed as part of my Design and Analysis of Algorithms (DAA) course. Each folder represents a specific algorithm written in C/C++, demonstrating core principles like searching, sorting, graph traversal, and string matching.
+This repository contains a curated collection of algorithm implementations developed as part of my Design and Analysis of Algorithms (DAA) course. Each folder represents a specific algorithm written in C, demonstrating core principles like searching, sorting, graph traversal, and string matching.
 
 ## 📂 Folder Structure
 
